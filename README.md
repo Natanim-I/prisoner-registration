@@ -1,2 +1,2 @@
 # prison
-A java program to manager prisoner information
+A java program to manage prisoner information
